@@ -1,4 +1,4 @@
-# FetchDataFromDatabaseUsingPhp.github
+# Fetch-Data-From-Database-Using-Php.github
 
 This PHP script retrieves data from a MySQL database and displays it on a webpage. It establishes a connection to the database using PDO (PHP Data Objects) and fetches all rows from a specified table. The script begins by defining database connection parameters such as server name, username, password, and database name.
 
